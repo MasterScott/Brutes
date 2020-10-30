@@ -11,7 +11,9 @@ print(Fore.LIGHTCYAN_EX + """\
 ██████╔╝██║  ██║╚██████╔╝   ██║   ╚██████╔╝███████║
 ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝ ╚══════╝
 
-A universal brute forcer!
+Made by ANG a honey!
+
+A universal brute forcer! 
 
  """ + Fore.RESET)
 
