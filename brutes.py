@@ -1,9 +1,11 @@
 import requests
 from termcolor import colored
 from colorama import Fore, init
+import os
+os.system("cls")
 
 
-print(Fore.LIGHTCYAN_EX + """\
+print(Fore.LIGHTMAGENTA_EX + """\
 ██████╗ ██████╗ ██╗   ██╗████████╗██╗   ██╗███████╗
 ██╔══██╗██╔══██╗██║   ██║╚══██╔══╝██║   ██║██╔════╝
 ██████╔╝██████╔╝██║   ██║   ██║   ██║   ██║███████╗
